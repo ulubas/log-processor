@@ -10,7 +10,7 @@ The Log Processor is a Python command-line tool designed to process log files co
 
 ```bash
 git clone <repository_url>
-cd LogProcessor
+cd log-processor
 ````
 
 ## Usage
